@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  messages: "Welcome to EazyBank accounts related prod APIs "
+  messages: "Welcome to EazyBank accounts related webhook APIs "
   contactDetails:
     name: "Ryan Gosling - Product Owner"
     email: "ryan@eazybank.com"
