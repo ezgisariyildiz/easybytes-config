@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to EazyBank loans related local APIs "
+  messages: "Welcome to EazyBank loans related local APIs "
   contactDetails:
     name: "Cedric Bach - Developer"
     email: "cedric@eazybank.com"
